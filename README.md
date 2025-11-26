@@ -6,3 +6,8 @@
 - [x] Add a view for the back side of the flashcard to display the answer
 - [x] Build in logic to show the answer side when the card is tapped
 - [x] Push code to GitHub
+
+
+
+Uploading az_recorder_20251121_150315_001.mp4…
+
